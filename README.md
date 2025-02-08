@@ -1,30 +1,29 @@
-# RAGenius - Culture Générale Augmentée par RAG
+# RAGenius - Augmented General Knowledge with RAG
 
-RAGenius est une application d'intelligence artificielle qui révolutionne l'accès à la culture générale en combinant la puissance du modèle RAG (Retrieval-Augmented Generation). Grâce à une approche hybride de recherche d'informations et de génération de texte, RAGenius fournit des réponses précises, contextualisées et enrichies à vos questions sur des sujets variés : histoire, sciences, arts, géographie, et bien plus encore.
-
----
-
-## Fonctionnalités clés
-
-- **Réponses précises et documentées** : RAGenius s'appuie sur des sources fiables pour générer des réponses détaillées et vérifiées.  
-- **Interaction intuitive** : Posez des questions en langage naturel et obtenez des réponses claires et concises.  
-- **Apprentissage continu** : Le système s'améliore en temps réel grâce à des mises à jour régulières de ses bases de connaissances.  
-- **Personnalisation** : Adaptez l'application à vos centres d'intérêt pour une expérience sur mesure.  
+RAGenius is an artificial intelligence application that revolutionizes access to general knowledge by combining the power of the RAG (Retrieval-Augmented Generation) model. Using a hybrid approach of information retrieval and text generation, RAGenius provides precise, contextualized, and enriched answers to your questions on a wide range of topics: history, science, arts, geography, and much more.
 
 ---
 
-## Cas d'utilisation
+## Key Features
 
-- **Étudiants** : Pour approfondir vos connaissances et préparer des examens.  
-- **Curieux** : Pour explorer des sujets variés et satisfaire votre soif d'apprentissage.  
-- **Professionnels** : Pour obtenir des informations précises et fiables en un clin d'œil.  
-
----
-
-## Technologie utilisée
-
-- **RAG (Retrieval-Augmented Generation)** : Combinaison de recherche d'informations et de génération de texte pour des réponses contextualisées.  
-- **Base de connaissances extensible** : Intégration de sources fiables et mises à jour régulières.  
+- **Precise and Documented Answers**: RAGenius relies on reliable sources to generate detailed and verified answers.  
+- **Intuitive Interaction**: Ask questions in natural language and receive clear and concise answers.  
+- **Continuous Learning**: The system improves in real-time with regular updates to its knowledge base.  
+- **Personalization**: Tailor the application to your interests for a customized experience.  
 
 ---
 
+## Use Cases
+
+- **Students**: To deepen your knowledge and prepare for exams.  
+- **Curious Minds**: To explore various topics and satisfy your thirst for learning.  
+- **Professionals**: To get precise and reliable information in a flash.  
+
+---
+
+## Technology Used
+
+- **RAG (Retrieval-Augmented Generation)**: A combination of information retrieval and text generation for contextualized responses.  
+- **Extensible Knowledge Base**: Integration of reliable sources with regular updates.  
+
+---
